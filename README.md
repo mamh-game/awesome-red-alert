@@ -7,4 +7,6 @@ A curated list of awesome red-alert.
 ## https://cncnet.org/red-alert
 
 
-## OpenRA  A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
+## 一个开源的早期版本红警源码：OpenRA  A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
+
+## 一个网页版本的： https://game.chronodivide.com/
